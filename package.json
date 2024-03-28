@@ -1,5 +1,5 @@
 {
-  "name": "trading-aggregator",
+  "name": "tea-trading-aggregator",
   "version": "1.1.4",
   "description": "trading aggregator pack",
   "main": "index.js",
